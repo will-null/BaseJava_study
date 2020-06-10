@@ -1,4 +1,4 @@
-package com.alden;
+package com.alden.SuanFa;
 
 import org.junit.Test;
 
